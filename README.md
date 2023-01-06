@@ -42,6 +42,7 @@
 <ul>
   <li><a href="https://reactnative.dev/">React Native</a> - A framework for building native mobile apps using React</li>
   <li><a href="https://expo.io/">Expo</a> - A toolchain for building and deploying mobile apps</li>
+  <li><a href="https://www.nativewind.dev/">NativeWind</a> - NativeWind uses Tailwind CSS as scripting language</li>
 </ul>
 
 <h2>Authors</h2>
